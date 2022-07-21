@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="Dodgy_Brothers.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dodgy_Brothers"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FFEFEFEE">
+        <TextBlock HorizontalAlignment="Left" Margin="523,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="45" Width="238" FontSize="36" FontFamily="Berlin Sans FB" Text="Motor Manager"/>
+        <TextBlock HorizontalAlignment="Left" Margin="222,219,0,0" TextWrapping="Wrap" Text="Customer Name" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBox HorizontalAlignment="Left" Margin="453,219,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="210" Background="#66008EAB"/>
+        <TextBlock HorizontalAlignment="Left" Margin="222,290,0,0" TextWrapping="Wrap" Text="Phone Number" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBox HorizontalAlignment="Left" Margin="453,290,0,0" TextWrapping="Wrap" Text="Phone Number" VerticalAlignment="Top" Width="210" Background="#66008EAB"/>
+        <TextBlock HorizontalAlignment="Left" Margin="222,363,0,0" TextWrapping="Wrap" Text="Purchase Vehicle Cost" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBox HorizontalAlignment="Left" Margin="453,359,0,0" TextWrapping="Wrap" Text="Purchase Vehicle Cost" VerticalAlignment="Top" Width="210" Background="#66008EAB"/>
+        <TextBlock HorizontalAlignment="Left" Margin="222,432,0,0" TextWrapping="Wrap" Text="Trade-In-Vehicle Value" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBox HorizontalAlignment="Left" Margin="453,432,0,0" TextWrapping="Wrap" Text="Trade-In-Vehicle Value" VerticalAlignment="Top" Width="210" Background="#66008EAB"/>
+        <TextBlock HorizontalAlignment="Left" Margin="747,340,0,0" TextWrapping="Wrap" Text="Sub Amount: $" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black"/>
+        <TextBlock HorizontalAlignment="Left" Margin="746,388,0,0" TextWrapping="Wrap" Text="GST Amount: $" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBlock HorizontalAlignment="Left" Margin="746,436,0,0" TextWrapping="Wrap" Text="Final Amount: $" VerticalAlignment="Top" FontSize="22" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <Button Content="Calculate" Margin="224,521,0,0" VerticalAlignment="Top" Height="38" Width="90" Background="#FF005B7C" Foreground="#FFEFEFEE" />
+        <TextBlock HorizontalAlignment="Left" Margin="1077,683,0,0" TextWrapping="Wrap" Text="Developed by : Amos Chamberlain" VerticalAlignment="Top" FontSize="12" FontFamily="HP Simplified Hans" Foreground="Black" Width="183" Height="15" />
+        <Button Content="Clear" Margin="455,521,0,0" VerticalAlignment="Top" Width="91" Height="38" Background="#FF005B7C" Foreground="#FFEFEFEE" />
+        <Button Content="Save" Margin="640,521,0,0" VerticalAlignment="Top" Width="91" Height="37" Background="#FF005B7C" Foreground="#FFEFEFEE" />
+        <Image HorizontalAlignment="Left" Height="192" Margin="906,54,0,0" VerticalAlignment="Top" Width="335" Source="/Assets/car.png" RenderTransformOrigin="0.5,0.5"></Image>
+        <TextBox HorizontalAlignment="Left" Margin="903,340,0,0" TextWrapping="Wrap" Text="00.00" VerticalAlignment="Top" Width="96" Background="#66008EAB"/>
+        <TextBox HorizontalAlignment="Left" Margin="903,388,0,0" TextWrapping="Wrap" Text="00.00" VerticalAlignment="Top" Width="96" Background="#66008EAB"/>
+        <TextBox HorizontalAlignment="Left" Margin="903,436,0,0" TextWrapping="Wrap" Text="00.00" VerticalAlignment="Top" Width="96" Background="#66008EAB"/>
+        <TextBlock HorizontalAlignment="Left" Margin="330,159,0,0" TextWrapping="Wrap" Text="Customer Details" VerticalAlignment="Top" FontSize="28" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBlock HorizontalAlignment="Left" Margin="804,289,0,0" TextWrapping="Wrap" Text="Calculations" VerticalAlignment="Top" FontSize="28" FontFamily="HP Simplified Hans" Foreground="Black" />
+        <TextBlock HorizontalAlignment="Left" Margin="497,6,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="67" Width="309" FontSize="48" FontFamily="Poor Richard" Text="Dodgy Brothers"/>
+        <Image HorizontalAlignment="Left" Height="41" Margin="994,670,0,0" VerticalAlignment="Top" Width="69" Source="/Assets/ITWorks_logo_new.png"/>
+    </Grid>
+</Page>
+

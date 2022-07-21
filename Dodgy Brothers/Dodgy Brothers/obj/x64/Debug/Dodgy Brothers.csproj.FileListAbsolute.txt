@@ -1,0 +1,110 @@
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\App.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\CarSales2.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\CarSales3.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\MainPage.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.xr.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.exe
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.pdb
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\resources.pri
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\AppxManifest.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Core\Dodgy Brothers.exe
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.build.appxrecipe
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\System.Runtime.dll
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.csproj.AssemblyReference.cache
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.csproj.CoreCompileInputs.cache
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.csproj.CopyComplete
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.exe
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.pdb
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\priconfig.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\resources.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\pri.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\qualifiers.txt
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\amose\OneDrive\Documents\Tafe Work\PRG437UWP\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424437200000000.json
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\App.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\CarSales2.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\CarSales3.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\MainPage.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.xr.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.exe
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.pdb
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\resources.pri
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\AppxManifest.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Core\Dodgy Brothers.exe
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Dodgy Brothers.build.appxrecipe
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\System.Runtime.dll
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.csproj.AssemblyReference.cache
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.xaml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\App.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales2.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\CarSales3.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MainPage.xbf
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.csproj.CoreCompileInputs.cache
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.csproj.CopyComplete
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.exe
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\Dodgy Brothers.pdb
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\priconfig.xml
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\resources.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\pri.resfiles
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\qualifiers.txt
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\amose\OneDrive\Documents\Tafe Work\ICTPRG440\ass 1\Dodgy Brothers\Dodgy Brothers\Dodgy Brothers\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424437200000000.json

@@ -1,0 +1,153 @@
+﻿<Page
+    x:Class="Dodgy_Brothers.CarSales3"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Dodgy_Brothers"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="Page_Loaded"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <!--
+    04/04/2022
+    assignment CarSales3
+    -->
+    <Page.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="#66008EAB" />
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FF005B7C" />
+            <Setter Property="Foreground" Value="#FFEFEFEE" />
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#FFEFEFEE">
+        <StackPanel>
+            <!-- The first stack panel comprises of three to split the header into thirds -->
+            <StackPanel Orientation="Horizontal" Margin=" 0 0 0 0" Height="140px">
+                <!-- The first one is empty -->
+                <StackPanel Width="400">
+                    <TextBlock />
+                </StackPanel>
+                <!-- The second has the title -->
+                <StackPanel Orientation="Vertical" Width="460">
+                    <TextBlock />
+                    <TextBlock Text="Dodgy Brothers" FontSize="40" FontFamily="Poor Richard" HorizontalAlignment="Center" />
+                    <TextBlock Text="Motor Manager" FontSize="34" FontFamily="Berlin Sans FB" HorizontalAlignment="Center" />
+                </StackPanel>
+                <!-- The third has the car image -->
+                <StackPanel HorizontalAlignment="Right" Width="400">
+                    <Image Source="/Assets/car.png" Width="280px" HorizontalAlignment="Right" />
+                </StackPanel>
+            </StackPanel>
+
+            <!-- This stack panels makes up the details, claculations, and buttons of the assignment-->
+            <StackPanel Orientation="Horizontal" Margin="0 0 0 0" >
+                <!-- This one is the title of the customer details -->
+                <StackPanel HorizontalAlignment="Left">
+                    <TextBlock Text="Customer Details" FontSize="32" FontFamily="HP Simplified Hans" Margin="100 0 40 5" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    <!-- This contains the Customer Name Text Block and Text Box -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Customer Name" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" VerticalAlignment="Center" />
+                        <TextBox x:Name="customerNameTextBox" PlaceholderText="Name" Margin="77 0 0 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Width="200"/>
+                    </StackPanel>
+                    <!-- This contains the Phone Number Text Block and Text Box -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Phone Number" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" VerticalAlignment="Center" />
+                        <TextBox x:Name="phoneTextBox" PlaceholderText="Phone Number" Margin="90 0 0 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Width="200"/>
+                    </StackPanel>
+                    <!-- This contains teh purchase cost Text Block and Text Box -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Purchase Vehicle Cost" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" VerticalAlignment="Center" />
+                        <TextBox x:Name="vehiclePriceTextBox" PlaceholderText="Purchase Vehicle Cost" Margin="12 0 0 0" HorizontalAlignment="Right" VerticalAlignment="Center"  Width="200"/>
+                    </StackPanel>
+                    <!-- This contains the trade in value Text Block and Text Box -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Trade-In-Vehicle Value" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" VerticalAlignment="Center" />
+                        <TextBox x:Name="tradeInTextBox" PlaceholderText="Trade-In-Vehicle Value" HorizontalAlignment="Right" VerticalAlignment="Center"  Width="200"/>
+                    </StackPanel>
+                    <!-- This contains the extras features -->
+                    <StackPanel Orientation="Horizontal" >
+                        <!-- This contains the insurance radio buttons -->
+                        <StackPanel HorizontalAlignment="Right" Margin="100 0 0 0">
+                            <ToggleSwitch  x:Name="insuranceToggleSwitch" OffContent="No Insurance" OnContent=" Buy Insurance" FontFamily="HP Simplified Hans" Toggled="insuranceToggleSwitch_Toggled" />
+                            <RadioButton x:Name="youngerRadioButton" IsEnabled="False" GroupName="insurance" Content="Under 25 (20% of vehicle cost)" FontFamily="HP Simplified Hans" />
+                            <RadioButton x:Name="olderRadioButton" IsEnabled="False" GroupName="insurance" Content="25 or older (10% of vehicle cost)" FontFamily="HP Simplified Hans" />
+                        </StackPanel>
+                        <!-- The warranty dropdown box -->
+                        <ComboBox x:Name="warrantyComboBox" SelectedIndex="0" FontFamily="HP Simplified Hans" Margin="74 0 0 0"  HorizontalAlignment="Left" VerticalAlignment="Center" >
+                            <x:String >1 year warranty</x:String>
+                            <x:String>2 years warranty (+5%)</x:String>
+                            <x:String>3 years warranty (+10%)</x:String>
+                            <x:String>5 years warranty (+20%)</x:String>
+                        </ComboBox>
+                    </StackPanel>
+                    <!-- This contains the optional extras -->
+                    <StackPanel>
+                        <TextBlock x:Name="optionalsTextBlock" Text="Optional Extras" FontSize="20" FontFamily="HP Simplified Hans" Margin="100 0 0 0" />
+                        <!-- This contains the first two optional extra check boxes -->
+                        <StackPanel Orientation="Horizontal">
+                            <CheckBox x:Name="tintedWindowsCheckBox" Content="Window tinting ($150)" FontFamily="HP Simplified Hans" Margin="100 0 0 0" />
+                            <CheckBox x:Name="ducoProtectionCheckBox" Content="Duco protection ($180)" FontFamily="HP Simplified Hans" Margin="50 0 0 0" />
+                        </StackPanel>
+                        <!-- This contains the second two check boxes-->
+                        <StackPanel Orientation="Horizontal">
+                            <CheckBox x:Name="floorMatsCheckBox" Content="Floor mats ($320)" FontFamily="HP Simplified Hans" Margin="100 0 0 0" />
+                            <CheckBox x:Name="soundSystemCheckBox" Content="Deluxe sound system ($350)" FontFamily="HP Simplified Hans" Margin="76 0 0 0" />
+                        </StackPanel>
+                    </StackPanel>
+                    <!-- This contains the date pickers -->
+                    <StackPanel Orientation="Horizontal" Margin="100 0 0 0">
+                        <TimePicker x:Name="pickupTimePicker" Header="Pickup time" />
+                        <CalendarDatePicker x:Name="collectionCalendarDatePicker" Header="Collection date" PlaceholderText="Choose your collection date" Margin="17 0 0 0" />
+                    </StackPanel>
+                    <!-- This contains the buttons -->
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="65 50 0 0">
+                        <Button x:Name="summaryButton" Click="summaryButton_Click" Content="Summary" Width="100" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 20 40 20" />
+                        <Button x:Name="resetButton" Click="resetButton_Click" Content="Clear" Width="100" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="40 20" />
+                        <Button x:Name="saveButton" Click="saveButton_Click" Content="Save" Width="100" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="40 20 0 20" />
+                    </StackPanel>
+                </StackPanel>
+                <!-- This contains the calculations details -->
+                <StackPanel HorizontalAlignment="Right" >
+                    <!-- The header -->
+                    <TextBlock Text="Calculations" HorizontalAlignment="Center" VerticalAlignment="Bottom" FontSize="32" FontFamily="HP Simplified Hans" Margin="100 0 40 5" />
+                    <!-- This contains the sub amount calculation -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Sub Amount: " HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" />
+                        <TextBox x:Name="subAmountTextBox" Text="00.00" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Width="140" IsReadOnly="True" Margin="11 0 0 0" />
+                    </StackPanel>
+                    <!-- This contains the gst amount calculation -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="GST Amount: " HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" />
+                        <TextBox x:Name="gstAmountTextBox" Text="00.00" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Width="140" IsReadOnly="True" Margin="10 0 0 0" />
+                    </StackPanel>
+                    <!-- This contains the final amount calculation -->
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Final Amount: " HorizontalAlignment="Right" VerticalAlignment="Center" FontSize="26" FontFamily="HP Simplified Hans" Margin="100 2 40 2" />
+                        <TextBox x:Name="finalAmountTextBox" Text="00.00" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Width="140" IsReadOnly="True" />
+                    </StackPanel>
+                    <!-- This is the summary box -->
+                    <TextBlock x:Name="summaryTextBlock" Width="334px" Height="400px" HorizontalAlignment="Right" Margin="0 10 0 0" />
+                </StackPanel>
+                <!-- This contains the footer -->
+                <StackPanel Margin="20 0 0 0">
+                    <StackPanel>
+                        <Button x:Name="displayCustomersButton" Click="displayCustomersButton_Click" Content="Display All Customers" Width="200" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 42 0 2" />
+                        <Button x:Name="searchNameButton" Click="searchNameButton_Click" Content="Search Name" Width="200" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 0 0 2" />
+                        <Button x:Name="deleteNameButton" Click="deleteNameButton_Click" Content="Delete Name" Width="200" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 0 0 60" />
+                    </StackPanel>
+                    <StackPanel>
+                        <TextBox x:Name="vehicleMakeTextBox" PlaceholderText="Vehicle Make Name" HorizontalAlignment="Center" VerticalAlignment="Center"  Width="200" Margin="0 10 0 10" />
+                        <Button x:Name="searchMakeButton" Click="searchMakeButton_Click" Content="Search Make" Width="200" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 2 0 2" />
+                        <Button x:Name="insertMakeButton" Click="insertMakeButton_Click" Content="Insert Make" Width="200" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 2 0 2" />
+                        <Button x:Name="displayMakesButton" Click="displayMakesButton_Click" Content="Display All Makes" Width="200" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0 2 0 145" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" >
+                        <Image Source="/Assets/ITWorks_logo_new.png" HorizontalAlignment="left" Width="60px" />
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
